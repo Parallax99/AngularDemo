@@ -7,13 +7,15 @@ import { SignUpComponent } from './sign-up/sign-up.component';
 import { HeaderComponent } from './header/header.component';
 import { LoginComponent } from './login/login.component';
 import { FormsModule } from '@angular/forms';
+import { ServiceComponent } from './service/service.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignUpComponent,
     HeaderComponent,
-    LoginComponent
+    LoginComponent,
+    ServiceComponent
   ],
   imports: [
     BrowserModule,
