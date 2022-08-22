@@ -16,4 +16,4 @@ jobs:
         with:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVOPSDEMO_4FAB6}}'
           projectId: devopsdemo-4fab6
-          channelId: live dd
+          channelId: live 
